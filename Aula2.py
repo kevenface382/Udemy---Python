@@ -1,6 +1,6 @@
-print (12, 34, sep="-") #Número nao precisa de aspas
-print (56, 78, sep='-') #Número nao precisa de aspas
-print ('Hello World') #Texto precisa de aspas
+print(12, 34, sep="-")  # Número nao precisa de aspas
+print(56, 78, sep='-')  # Número nao precisa de aspas
+print('Hello World')  # Texto precisa de aspas
 
 
 # \r\n -> CRLF
